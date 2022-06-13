@@ -1,0 +1,6 @@
+[submodule "basic-readouts"]
+	path = basic-readouts
+	url = https://github.com/rest-for-physics/basic-readouts.git
+[submodule "basic-geometries"]
+	path = basic-geometries
+	url = https://github.com/rest-for-physics/basic-geometries.git
